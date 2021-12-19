@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WebView Test</string>
+    <string name="long_text">Pretty good, the Toolbar is moving along with the list and getting back just as we expect it to. This is thanks to the restrictions that we put on the mToolbarOffset variable.
+        If we would omit checking if it’s bigger than 0 and lower than mToolbarHeight then when
+        we would scroll
+         up our list, the Toolbar would move along far away off the screen, so to show it back you
+         would have to scroll the list down to 0. Right now it just scrolls up to mToolbarHeight
+         position and not more so it’s “sitting” right above the list all of the time and if we
+         start scrolling down, we can see it immediately showing.
+
+
+
+          up our list, the Toolbar would move along far away off the screen, so to show it back you
+         would have to scroll the list down to 0. Right now it just scrolls up to mToolbarHeight
+         position and not more so it’s “sitting” right above the list all of the time and if we
+         start scrolling down, we can see it immediately showing
+
+          up our list, the Toolbar would move along far away off the screen, so to show it back you
+         would have to scroll the list down to 0. Right now it just scrolls up to mToolbarHeight
+         position and not more so it’s “sitting” right above the list all of the time and if we
+         start scrolling down, we can see it immediately showing
+
+          up our list, the Toolbar would move along far away off the screen, so to show it back you
+         would have to scroll the list down to 0. Right now it just scrolls up to mToolbarHeight
+         position and not more so it’s “sitting” right above the list all of the time and if we
+         start scrolling down, we can see it immediately showing
+
+          up our list, the Toolbar would move along far away off the screen, so to show it back you
+         would have to scroll the list down to 0. Right now it just scrolls up to mToolbarHeight
+         position and not more so it’s “sitting” right above the list all of the time and if we
+         start scrolling down, we can see it immediately showing
+
+          up our list, the Toolbar would move along far away off the screen, so to show it back you
+         would have to scroll the list down to 0. Right now it just scrolls up to mToolbarHeight
+         position and not more so it’s “sitting” right above the list all of the time and if we
+         start scrolling down, we can see it immediately showing
+        It works pretty well, but this is not what we want. It feels weird that you can
+        stop it in the middle of
+        the
+
+         scroll and the Toolbar will stay half visible. Actually this is how it’s done in Google Play
+         Games app
+        which I consider as a bug
+
+        It works pretty well, but this is not what we want. It feels weird that you can
+        stop it in the middle of
+        the
+         scroll and the Toolbar will stay half visible. Actually this is how it’s done in Google Play
+         Games app
+        which I consider as a bug
+        It works pretty well, but this is not what we want. It feels weird that you can
+        stop it in the middle of
+        the
+         scroll and the Toolbar will stay half visible. Actually this is how it’s done in Google Play
+         Games app
+        which I consider as a bug.</string>
+</resources>
